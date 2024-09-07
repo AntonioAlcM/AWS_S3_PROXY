@@ -1,0 +1,5 @@
+boto3==1.35.13
+fastapi==0.113.0
+python-multipart==0.0.9
+ujson==5.10.0
+uvicorn==0.30.6
